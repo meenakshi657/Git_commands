@@ -25,3 +25,9 @@ git commit -m "my first commit" (-m == message)
 git push -u
 
 git clone <repository url> == for cloning a repository from github
+
+git branch newbranch
+
+git switch newbranch
+
+git pull
